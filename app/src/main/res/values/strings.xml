@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz1</string>
+    <string name="question_text">Работает ли у тебя ПК?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">false</string>
+    <string name="correct.toast">correct!</string>
+    <string name="incorrect.toast">Incorrect!</string>
+</resources>
